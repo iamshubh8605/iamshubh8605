@@ -1,7 +1,6 @@
 - 👋 Hi, Shubham Kasar here.
 - 👀 I’m interested in Wordpress
 - 🌱 I’m currently learning React.js & Gutenberg
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me {email : 'shubhamkasar8605.com' , mobile: '8605617374' }
 
 <!---
